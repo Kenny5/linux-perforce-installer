@@ -1,11 +1,11 @@
 # C: Country Name - 2 letter code (default: US)
-C = US
+C = UK
 
 # ST: State or Province Name - full name (default: CA)
-ST = CA
+ST = SC
 
 # L: Locality or City Name (default: Alameda)
-L = San Francisco
+L = Dundee
 
 # O: Organization or Company Name (default: Perforce Autogen Cert)
 O = Perforce Autogen Cert
@@ -15,7 +15,7 @@ OU =
 
 # CN: Common Name (usually the DNS name of the server)
 # (default: the current server's DNS name)
-CN = *.example.com
+CN = hlgsrc.cloudapp.net
 
 # EX: number of days from today for certificate expiration
 # (default: 730, e.g. 2 years)
